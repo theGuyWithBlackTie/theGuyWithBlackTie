@@ -5,7 +5,7 @@
 [![Twitter: Ashish Singhal](https://img.shields.io/twitter/follow/guywithblacktie?style=social)](https://twitter.com/guywithblacktie)
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=theGuyWithBlackTie&left_color=gray&right_color=blue)
 
-[![Ashish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=theGuyWithBlackTie&hide=issues&count_private=true&show_icons=true&theme=calm&hide=stars,commits)](https://github.com/theGuyWithBlackTie/github-readme-stats)
+[![Ashish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=theGuyWithBlackTie&hide=prs,issues,contribs&count_private=true&show_icons=true&theme=calm)](https://github.com/theGuyWithBlackTie/github-readme-stats)
 
 <!--
 **theGuyWithBlackTie/theGuyWithBlackTie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
