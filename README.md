@@ -3,7 +3,7 @@
 [![GitHub theGuyWithBlackTie](https://img.shields.io/github/followers/theGuyWithBlackTie?label=follow&style=social)](https://github.com/theGuyWithBlackTie)
 [![Linkedin: Ashish Singhal](https://img.shields.io/badge/-Ashish%20Singhal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aasinghal/)](https://www.linkedin.com/in/aasinghal/)
 [![Twitter: Ashish Singhal](https://img.shields.io/twitter/follow/guywithblacktie?style=social)](https://twitter.com/guywithblacktie)
-[![Blog](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://theguywithblacktie.github.io/kernel/)
+[![Blog](https://img.shields.io/badge/Blog-%20-orange?style=social&logo=blogger)](https://theguywithblacktie.github.io/kernel/)
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=theGuyWithBlackTie&left_color=gray&right_color=blue)
 
 [![Ashish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=theGuyWithBlackTie&hide=prs,issues,contribs&count_private=true&show_icons=true&theme=calm)](https://github.com/theGuyWithBlackTie/github-readme-stats)
